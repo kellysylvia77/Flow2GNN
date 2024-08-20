@@ -1,7 +1,7 @@
 # Flow2GNN: Flexible Two-Way Flow Message Passing for Enhancing GNNs beyond Homophily
 This is the official repository for the paper "Flow2GNN: Flexible Two-Way Flow Message Passing for Enhancing GNNs beyond Homophily" (IEEE TCYB 2024).
 
-#
+# Reproducing Experiments
 
 # Citation
 If you found our datasets or our code helpful, please cite our paper:
